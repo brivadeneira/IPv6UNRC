@@ -63,7 +63,7 @@ Alumnos, egresados, docentes o no docentes de la UNRC, profesionales del rubro d
 * **Métodos de configuración de interfaces.** Manual. SLAAC. EUI-64. DHCPv6. Sin Estado. Con Estado
 * **Descripción de algunos métodos de transición.** Dual Stack. DNS64/NAT64. 464XLAT. SIIT-DC
 * **Tutorial básico.** Diseño de red. Enumeración. Confección de plan de ruteo. Sesión Telnet. Sesión SSH. Configuración manual de interfaces de red en GNU/Linux, Cisco y Mikrotik.
-* **Laboratorio experimental** Planificación de red. Sesión Telnet. Sesión SSH. Virtualización. Diseño. Enumeración. Confección de plan de ruteo. Configuración manual de interfaces. Implementación de protocolo de ruteo interno OSPF. Implementación de protocolo de ruteo externo BGP.
+* **Laboratorio experimental** Planificación de red. Virtualización. Diseño. Enumeración. Confección de plan de ruteo. Configuración manual de interfaces. Implementación de protocolo de ruteo interno OSPF. Implementación de protocolo de ruteo externo BGP.
 
 # Inscripción
 **Formulario de inscripción:** [IPv6 en la vida real](https://goo.gl/forms/qxymPLU4S1wyONX52)
