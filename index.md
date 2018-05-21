@@ -58,7 +58,7 @@ Alumnos, egresados, docentes o no docentes de la UNRC, profesionales del rubro d
 * **Estado de los protocolos**
 	* IPv4, Fase 3 y política de "Soft landing"
 	* IPv6, Estado de madurez. Estado de implementación del protocolo a nivel mundial
-* **Grupos de trabajo regionales**: ARnog, LACNOG, Coalición IPv6
+* **Grupos de trabajo regionales**: ARnog, LACNOG.
 * **Descripción de componentes básicos de IPv6.**,Comparación entre encabezados de v4 y v6. Esquema de direccionamiento. Prácticas de direccionamiento ICMPv6, NDP, RA, MLD
 * **Métodos de configuración de interfaces.** Manual. SLAAC. EUI-64. DHCPv6. Sin Estado. Con Estado
 * **Descripción de algunos métodos de transición.** Dual Stack. DNS64/NAT64. 464XLAT. SIIT-DC
