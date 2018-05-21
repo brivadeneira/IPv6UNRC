@@ -38,7 +38,7 @@ Alumnos, egresados, docentes o no docentes de la UNRC, profesionales del rubro d
 
 **11:00 - 13:00** Tutorial básico de redes e IPv6.
 
-**13:00 - 14:00** Almuerzo.
+**13:00 - 14:00** *Almuerzo.*
 
 **14:00 - 17:00** Laboratorio experimental con redes reales.
 
