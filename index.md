@@ -10,7 +10,7 @@ Res. Dec. N°
 
 # Sobre Ariel Weher
 
-Ariel es un experto en temas de internet, posee una cantidad significativa de certificaciones de redes de Cisco, Mikrotik, entre otros, se especializa en el diseño, administración e implementación de los más importantes protocolos, estándares y procedimientos de redes con un perfil ingenieril. Es uno de los referentes en el rubro en Argentina y Latinoamérica, reside en la ciudad de Rosario.
+[Ariel](https://twitter.com/arielweher) es un experto en temas de internet, posee una cantidad significativa de certificaciones de redes de Cisco, Mikrotik, entre otros, se especializa en el diseño, administración e implementación de los más importantes protocolos, estándares y procedimientos de redes con un perfil ingenieril. Es uno de los referentes en el rubro en Argentina y Latinoamérica, reside en la ciudad de Rosario.
 
 En esta ocasión se dispone a impartir una jornada de capacitación **sin costo** en la Universidad Nacional de Río Cuarto.
 
