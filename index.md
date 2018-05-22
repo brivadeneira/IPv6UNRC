@@ -2,7 +2,7 @@
 
 ![](img/flyer.png)
 
-Cursos de Actualización, especialización y perfeccionamiento sobre la versión 6 del Protocolo de Internet. Motivación, estado del arte, estándares, protocolos y buenas prácticas. Tutorial básico de planificación y enumeración de una red. Laboratorio experimental.
+Jornada de Actualización, especialización y perfeccionamiento sobre la versión 6 del Protocolo de Internet. Motivación, estado del arte, estándares, protocolos y buenas prácticas. Tutorial básico de planificación y enumeración de una red. Laboratorio experimental.
 
 Res. Dec. N°
 
