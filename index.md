@@ -16,7 +16,7 @@ En esta ocasión se dispone a impartir una jornada de capacitación **sin costo*
 
 # ¿Cuándo y dónde?
 
-El taller de capacitación sobre IPv6 se realiza el **Viernes 1° de Junio de 2018 a partir de las  9hs**,
+El taller de capacitación sobre IPv6 se realiza el **Viernes 15 de Junio de 2018 a partir de las  9hs**,
 
 en las instalaciones del **Laboratorio de Redes en el [Pab "I"](https://www.openstreetmap.org/way/220547523#map=19/-33.11160/-64.29857) de la Fac. de Ingeniería** de la UNRC.
 
