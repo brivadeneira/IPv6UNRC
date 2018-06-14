@@ -1,5 +1,11 @@
 # IPv6 en la vida real
 
+## ¡ATENCIÓN! Cambio de lugar
+
+Se modificó el lugar a realizar la jornada por paro y posible toma de la universidad.
+
+**Lugar**: Colegio de Ingenieros, San Lorenzo 655 2° piso
+
 ![](img/flyer.png)
 
 **Jornada de Actualización, especialización y perfeccionamiento** sobre la versión 6 del Protocolo de Internet. Motivación, estado del arte, estándares, protocolos y buenas prácticas. Tutorial básico de planificación y enumeración de una red. Laboratorio experimental.
