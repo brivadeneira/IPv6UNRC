@@ -18,7 +18,7 @@ En esta ocasión se dispone a impartir una jornada de capacitación **sin costo*
 
 El taller de capacitación sobre IPv6 se realiza el **Viernes 15 de Junio de 2018 a partir de las  9hs**,
 
-en las instalaciones del **Colegio de Ingenierios(https://www.openstreetmap.org/way/220547523#map=19/-33.12465/-64.34145) en la ciudad de Río Cuarto** (2° piso).
+en las instalaciones del **[Colegio de Ingenierios](https://www.openstreetmap.org/way/220547523#map=19/-33.12465/-64.34145) en la ciudad de Río Cuarto** (2° piso).
 
 # ¿A quién está dirigido?
 
